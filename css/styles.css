@@ -26,4 +26,11 @@
 .gt-container .gt-ico-github svg {
     fill: #757575!important;
 }
+
+.article-content p a:before{
+    font-family: 'FontAwesome';
+    content: '\f0c1';
+    font-size: 0.7em;
+    padding-left: 0.2em;
+}
 /*# sourceMappingURL=styles.css.map */
