@@ -12,11 +12,18 @@
 	line-height: 1em;
 }
 
-.gt-header a, .gt-comments a, .gt-popup a{
-  border-bottom: none;
+.gt-container .gt-header-textarea , .gt-header-preview {
+    border-radius: 6px!important;
+    border: 0px!important;
+    background-color: #f0f0f0!important;
+    font-family: 'Open Sans Condensed',"Microsoft Yahei"!important;
 }
-.gt-container .gt-popup .gt-action.is--active:before{
-  top: 0.7em;
+ 
+.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre , .gt-container .gt-counts{
+    font-family: 'IBM 3270','Open Sans Condensed',"Microsoft Yahei"!important;
 }
-
+ 
+.gt-container .gt-ico-github svg {
+    fill: #757575!important;
+}
 /*# sourceMappingURL=styles.css.map */
