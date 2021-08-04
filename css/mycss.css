@@ -4,3 +4,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@font-face {
+    font-family: 'Cascadia Code PL';
+    src:local("Cascadia Code PL");
+    font-style: normal;
+    font-weight: normal;
+}
