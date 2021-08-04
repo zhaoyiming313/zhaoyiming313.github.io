@@ -1,7 +1,7 @@
 body {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.9);
     background-image: url(/images/girl.png);
-    opacity: 0.7;
+    opacity: 0.8;
 	background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1290px 1080px;
 }
